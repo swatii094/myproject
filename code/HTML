@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+<head>
+	
+	<title>Online shopping store</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+<header id="home">
+	<nav>
+		<div class="logo">U-buy</div>
+		<div class="menu">
+			<a href="#Home">Home</a>
+			<a href="#Features">Features</a>
+			<a href="#Man">Man</a>
+			<a href="#Women">Women</a>
+			<a href="#shop">shop</a>
+		</div>
+	</nav>
+
+<div class="container">
+	<div class="left">
+		<img src="s0.jpg">
+	</div>
+
+	<div class="right">
+		<h1>Best Festival Offers</h1>
+		<p>
+			We are providing best quality material.we have best quality clothes, shoesz for man and womens.
+		</p>
+		<p>
+			70% Discount!!! 
+			hurry up
+		</p>
+		<button>Shop</button><br>
+		<img src="download.jpg">
+	</div>
+</div>
+</header>
+<section id="Features">
+	<h1>Features</h1>
+	<div class="Indian">
+	<div class="box1">
+		<img src="s1.jpg">
+		<div class="price">price: $50</div>
+	</div>
+	<div>
+		<img src="s5.jpg">
+		<div class="price">price: $5</div>
+	</div>
+	<div>
+		<img src="s3.jpg">
+		<div class="price">price: $60</div>
+	</div>
+	<div>
+		<img src="s4.jpg">
+		<div class="price">price: $70</div>
+	</div>
+</section>	
+
+
+<section id="Man">
+	<div class="Man-row">
+		<div class="Man-box">
+			<img src="m1.jpg">
+			<h2>sabyasachi<br>$150.78</h2>
+			<h3>Add to cart</h3>
+		</div>
+		<div class="Man-row">
+		<div class="Man-box">
+			<img src="m2.jpg">
+			<h2>sabyasachi<br>$150.78</h2>
+			<h3>Add to cart</h3>
+		</div>
+		<div class="Man-row">
+		<div class="Man-box">
+			<img src="m3.jpg">
+			<h2>sabyasachi<br>$150.78</h2>
+			<h3>Add to cart</h3>
+		</div>
+		<div class="Man-row">
+		<div class="Man-box">
+			<img src="m4.jpg">
+			<h2>sabyasachi<br>$150.78</h2>
+			<h3>Add to cart</h3>
+		</div>
+		<div class="Man-row">
+		<div class="Man-box">
+			<img src="m5.jpg">
+			<h2>sabyasachi<br>$150.78</h2>
+			<h3>Add to cart</h3>
+		</div>
+	</div>
+</section>
+
+
+<section id="Man">
+	<div class="Man-row">
+		<div class="Man-row">
+		<div class="Man-box">
+			<img src="s0.jpg">
+			<h2>sabyasachi<br>$150.78</h2>
+			<h3>Add to cart</h3>
+		</div>
+		<div class="Man-row">
+		<div class="Man-box">
+			<img src="s1.jpg">
+			<h2>sabyasachi<br>$150.78</h2>
+			<h3>Add to cart</h3>
+		</div>
+		<div class="Man-row">
+		<div class="Man-box">
+			<img src="s2.jpg">
+			<h2>sabyasachi<br>$150.78</h2>
+			<h3>Add to cart</h3>
+		</div>
+		<div class="Man-row">
+		<div class="Man-box">
+			<img src="s3.jpg">
+			<h2>sabyasachi<br>$150.78</h2>
+			<h3>Add to cart</h3>
+		</div>
+	</div>
+</section>
+
+<section id="footer">
+	<h2>Developed by Swati suman</h2>
+    <img src="download.jpg">
+	
+</section>
+</body>
+</html>
